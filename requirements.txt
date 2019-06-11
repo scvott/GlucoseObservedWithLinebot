@@ -1,0 +1,7 @@
+line-bot-sdk
+flask
+matplotlib
+gunicorn
+imgurpython
+pyimgur
+numpy
