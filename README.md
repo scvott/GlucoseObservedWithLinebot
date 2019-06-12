@@ -48,8 +48,7 @@ food name '吃的分量': 注意這個格式是固定的(目前食物只有190�
 	符合line API傳送圖片的規則  
 
 IV.	Demo影片連結  
-
-
+https://youtu.be/Q66bhe7g4xc  
 V.	參考資料
 1.	莫凡Python  
 2.	Model Predictive Control for Insulin Administration in People with Type 1 Diabetes - Miriam MN Nærum  
